@@ -6,8 +6,7 @@ div {
   height: 100vh; /* Optional: To center vertically based on viewport height */
 }
 
-video {
+img {
   width: 100%; /* Ensures the video takes full width of its container */
-  max-width: 600px; /* Limits the maximum width to 600px */
-  max-height: 400px;
+  max-width: 400px; /* Limits the maximum width to 600px */
 }
